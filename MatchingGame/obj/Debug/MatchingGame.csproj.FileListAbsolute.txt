@@ -1,0 +1,10 @@
+D:\Kuliah\Visual Studio\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe.config
+D:\Kuliah\Visual Studio\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe
+D:\Kuliah\Visual Studio\MatchingGame\MatchingGame\bin\Debug\MatchingGame.pdb
+D:\Kuliah\Visual Studio\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.AssemblyReference.cache
+D:\Kuliah\Visual Studio\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Form1.resources
+D:\Kuliah\Visual Studio\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+D:\Kuliah\Visual Studio\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.GenerateResource.cache
+D:\Kuliah\Visual Studio\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+D:\Kuliah\Visual Studio\MatchingGame\MatchingGame\obj\Debug\MatchingGame.exe
+D:\Kuliah\Visual Studio\MatchingGame\MatchingGame\obj\Debug\MatchingGame.pdb
